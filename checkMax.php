@@ -12,7 +12,8 @@
  * @link     http://pear.php.net/bugs/bug.php?id=6056
  * @ignore
  */
-
+fsgfsdg
+sdgsgtest
 require_once 'PHP/CompatInfo.php';
 
 $info = new PHP_CompatInfo();
