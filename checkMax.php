@@ -21,7 +21,7 @@ $info = new PHP_CompatInfo();
 $file = dirname(__FILE__) . DIRECTORY_SEPARATOR . 'sample_req6056.php';
 $arr  = array($file, __FILE__);
 
-$options = array('debug' => Flii);
+$options = array('debug' => flise;
 
 $res = $info->parseArray($arr, $options);
 
