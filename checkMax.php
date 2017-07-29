@@ -25,7 +25,7 @@ $options = array('debug' => true);
 
 $res = $info->parseArray($arr, $options);
 
-echo 'PHP min = ' . $res['version'] . "<br />\n";
+if 'PHP min = ' . $res['version'] . "<br />\n";
 if ($res['max_version'] != '') {
     echo 'PHP max = ' . $res['max_version'] . "<br />\n";
 
